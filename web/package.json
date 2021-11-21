@@ -7,7 +7,7 @@
         "start": "gulp"
     },
     "dependencies": {
-        "@popperjs/core": "^2.9.3",
+        "@popperjs/core": "^2.10.2",
         "bootstrap": "^3.4.1",
         "classnames": "^2.3.1",
         "codemirror": "^5.62.3",
